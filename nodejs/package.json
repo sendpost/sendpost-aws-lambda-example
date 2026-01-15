@@ -1,0 +1,9 @@
+{
+  "name": "sendpost-lambda-nodejs",
+  "version": "1.0.0",
+  "description": "SendPost AWS Lambda function (Node.js)",
+  "main": "index.js",
+  "dependencies": {
+    "sendpost-js-sdk": "^1.0.0"
+  }
+}
